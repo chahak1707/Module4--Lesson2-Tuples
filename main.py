@@ -8,7 +8,7 @@ print("length is",(len(string_tuple)))
 
 #indexing
 tuple1= ('P','Y','T','H','O','N')
-for i in range(4):
+for i in range(5):
     print(tuple1[i])
 
 string_tuple1= ("Jessa", "Emma", "Kelly", 8, 9)
